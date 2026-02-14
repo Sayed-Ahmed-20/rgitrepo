@@ -1,0 +1,2 @@
+At checkout, he entered his shipping address and billing address and then selected delivery.
+After placing the order, he got an order number and a confirmation e-mail.
